@@ -1,0 +1,18 @@
+
+<h2>Ejercicio 5: Unidades px y vw</h2>
+
+<p style="font-size: 20px;">
+    Este texto tiene un tamaño fijo de 20px.
+</p>
+
+<p style="font-size: 2vw;">
+    Este texto utiliza 2vw y cambia según el ancho de la ventana.
+</p>
+
+<p style="font-size: 4vw;">
+    Este texto utiliza 4vw y cambia según el ancho de la ventana.
+</p>
+
+<p style="font-size: 6vw;">
+    Este texto utiliza 6vw y cambia según el ancho de la ventana.
+</p>
