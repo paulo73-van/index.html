@@ -1,4 +1,23 @@
 
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <title>Cursos gratuitos de HTML</title>
+</head>
+<body>
+    <h1>Paulo Jair Vanegas Barros</h1>
+    <p><a href="https://www.w3schools.com/html/">W3Schools - HTML</a></p>
+    <p><a href="https://developer.mozilla.org/es/docs/Learn_web_development/Core/Structuring_content">MDN - Estructura de contenido</a></p>
+    <p><a href="https://www.freecodecamp.org/learn/"> freeCodeCamp</a></p>
+    <p><a href="https://www.sololearn.com/">SoloLearn</a></p>
+    <p><a href="https://www.codecademy.com/learn/learn-html">Codecademy - Learn HTML</a></p>
+    <p><a href="https://www.khanacademy.org/computing/computer-programming/html-css">Khan Academy - HTML y CSS</a></p>
+    <p><a href="https://www.coursera.org/">Coursera</a></p>
+    <p><a href="https://www.edx.org/learn/html">edX - HTML</a></p>
+    <p><a href="https://www.theodinproject.com/">The Odin Project</a></p>
+    <p><a href="https://html.com/">HTML.com</a></p>
+
 <h2>Ejercicio 5: Unidades px y vw</h2>
 
 <p style="font-size: 20px;">
@@ -16,3 +35,6 @@
 <p style="font-size: 6vw;">
     Este texto utiliza 6vw y cambia según el ancho de la ventana.
 </p>
+
+</body>
+</html>
